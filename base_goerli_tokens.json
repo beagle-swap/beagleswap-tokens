@@ -1,0 +1,65 @@
+{
+    "name": "Beagleswap Default List",
+    "timestamp": "2023-06-20T11:45:09Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://beagleswap.xyz/logo.png",
+    "keywords": [
+        "beagleswap",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x4200000000000000000000000000000000000006.png"
+        },
+        {
+            "name": "Beagle",
+            "symbol": "BEG",
+            "address": "0x58388CF6220DF8c113BfB087617055E23c19067f",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x58388CF6220DF8c113BfB087617055E23c19067f.png"
+        },
+        {
+            "name": "USDC",
+            "symbol": "USDC",
+            "address": "0xB37A5498A6386b253FC30863A41175C3f9c0723B",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0xB37A5498A6386b253FC30863A41175C3f9c0723B.png"
+        },
+        {
+            "name": "USDT",
+            "symbol": "USDT",
+            "address": "0x6440c59d7c7c108d3Bb90E4bDeeE8262c975858a",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x6440c59d7c7c108d3Bb90E4bDeeE8262c975858a.png"
+        },
+        {
+            "name": "LINK",
+            "symbol": "LINK",
+            "address": "0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3.png"
+        },
+        {
+            "name": "Gogems",
+            "symbol": "GOGE",
+            "address": "0x278BC93Bc84faEe5F22B8C398083e2E86F18a11F",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x278BC93Bc84faEe5F22B8C398083e2E86F18a11F.png"
+        }
+    ]
+}
