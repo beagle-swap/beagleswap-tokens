@@ -1,10 +1,10 @@
 {
     "name": "Beagleswap Default List",
-    "timestamp": "2023-06-20T11:45:09Z",
+    "timestamp": "2023-06-22T11:45:09Z",
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 2
     },
     "tags": {},
     "logoURI": "https://beagleswap.xyz/logo.png",
@@ -68,6 +68,22 @@
             "chainId": 84531,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0xeb31E4B4beDfb0df00B5dA90f30501d263b37691.png"
+        },
+        {
+            "name": "tBulls Token",
+            "symbol": "tBLX",
+            "address": "0x0EC5B10F67adf2443a4F61009BE4E0a6531A2AF8",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x0EC5B10F67adf2443a4F61009BE4E0a6531A2AF8.png"
+        },
+        {
+            "name": "Grass",
+            "symbol": "GRZ",
+            "address": "0x3476901eA02cB3E747a5199144b82289191Da64a",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x3476901eA02cB3E747a5199144b82289191Da64a.png"
         }
     ]
 }
