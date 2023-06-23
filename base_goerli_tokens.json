@@ -1,10 +1,10 @@
 {
     "name": "Beagleswap Default List",
-    "timestamp": "2023-06-22T11:45:09Z",
+    "timestamp": "2023-06-23T11:45:09Z",
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     },
     "tags": {},
     "logoURI": "https://beagleswap.xyz/logo.png",
@@ -84,6 +84,14 @@
             "chainId": 84531,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x3476901eA02cB3E747a5199144b82289191Da64a.png"
+        },
+        {
+            "name": "Doo Doo",
+            "symbol": "DooDoo",
+            "address": "0xFC059429122D9334d0A1A2d5C41484E5fC2DEC34",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0xFC059429122D9334d0A1A2d5C41484E5fC2DEC34.png"
         }
     ]
 }
