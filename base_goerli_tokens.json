@@ -92,6 +92,14 @@
             "chainId": 84531,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0xFDeacA5bc0E8DC0Df189F233d84578e037f908d7.png"
+        },
+        {
+            "name": "PandaVerse",
+            "symbol": "PDV",
+            "address": "0x669D9921fF07040da198ADD6c8FffDBE08683724",
+            "chainId": 84531,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/84531/tokens/0x669D9921fF07040da198ADD6c8FffDBE08683724.png"
         }
     ]
 }
