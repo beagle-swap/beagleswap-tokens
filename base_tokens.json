@@ -1,10 +1,10 @@
 {
     "name": "Beagleswap Token List",
-    "timestamp": "2023-08-04T23:11:11Z",
+    "timestamp": "2023-08-24T23:11:11Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     },
     "tags": {},
     "logoURI": "https://beagleswap.xyz/logo.png",
@@ -21,6 +21,14 @@
             "chainId": 8453,
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/8453/tokens/0x4200000000000000000000000000000000000006.png"
+        },
+        {
+            "name": "Beagle",
+            "symbol": "BEG",
+            "address": "0x48c89993abF08B8F6B9F37ef799842a24235CEbb",
+            "chainId": 8453,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/8453/tokens/0x48c89993abF08B8F6B9F37ef799842a24235CEbb.png"
         },
         {
             "name": "cbETH",
