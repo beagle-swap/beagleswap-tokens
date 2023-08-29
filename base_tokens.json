@@ -4,7 +4,7 @@
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     },
     "tags": {},
     "logoURI": "https://beagleswap.xyz/logo.png",
@@ -25,10 +25,10 @@
         {
             "name": "Beagle",
             "symbol": "BEG",
-            "address": "0xB24bD52252D880c4969B0A02b702071988768EAF",
+            "address": "0x4b9C9B4e39d4e5026359b05a6287Ee4d0737f211",
             "chainId": 8453,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/8453/tokens/0xB24bD52252D880c4969B0A02b702071988768EAF.png"
+            "logoURI": "https://raw.githubusercontent.com/beagle-swap/beagleswap-tokens/main/images/8453/tokens/0x4b9C9B4e39d4e5026359b05a6287Ee4d0737f211.png"
         },
         {
             "name": "cbETH",
